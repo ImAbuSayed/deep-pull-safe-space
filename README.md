@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-pull-safe-space/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Deep Pull Safe Space](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-pull-safe-space/) |
+| **Get License** | [Obtain a Music License for Deep Pull Safe Space](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-pull-safe-space/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows falling soft across the cabin floor
+> I never knew that I could want you more
+> Pulling me closer with a single look
+> You read my mind like an open book
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
